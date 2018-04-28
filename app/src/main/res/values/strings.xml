@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NLS</string>
+    <string name="nls_lable">NLS(Notification Listener Service)</string>
+</resources>
